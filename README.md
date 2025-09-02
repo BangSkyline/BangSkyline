@@ -1,6 +1,6 @@
-# 👋 Welcome to BangSkyline's GitHub!
+# 👋 Welcome to BangSkyline's GitHub !
 
-Hi, I'm **BangSkyline**, crafting innovative yet simple web applications and tools with a cosmic twist! My projects often draw inspiration from the universe, blending design with powerful functionality. Below, you'll find an overview of my work, skills, and ways to connect.
+Hi, I'm **BangSkyline**, crafting innovative yet simple web applications and tools with a cosmic twist ! My projects often draw inspiration from the universe and the roman empire, blending designs with powerful functionality. Below, you'll find an overview of my work, skills, and ways to connect.
 
 ---
 
@@ -30,7 +30,7 @@ A Next.js 13+ web app with TypeScript and Tailwind CSS, designed with a solar sy
 **Highlights**: Modern framework, responsive design.
 
 ### [Neptune-Triton](https://github.com/BangSkyline/Neptune-Triton)
-A ready-to-use Docker Compose setup for OpenWebUI, Ollama, n8n, Qdrant, and PostgreSQL.  
+A ready-to-use Docker Compose setup for OpenWebUI, Ollama, n8n, Qdrant, and PostgreSQL, an all in one compose to jump into n8n and local AI.  
 **Tech**: Docker, PostgreSQL  
 **Highlights**: Streamlined self-hosted AI and automation stack.
 
@@ -61,9 +61,9 @@ A Docker Compose setup for LLDAP, providing lightweight LDAP authentication.
 ---
 
 ## 🌌 Fun Fact
-I love blending mythology and astronomy into my projects, creating immersive experiences ! 🌍✨
+I love blending mythology and astronomy into my projects, creating immersive experiences !
 
-Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech, space, or anything else!
+Thanks for visiting ! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech, space, or anything else!
 
 ---
 

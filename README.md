@@ -54,14 +54,8 @@ A Docker Compose setup for LLDAP, providing lightweight LDAP authentication.
 
 ---
 
-## 📫 Get in Touch
-- **GitHub**: [BangSkyline](https://github.com/BangSkyline)
-- **Email**: [normanmaarref@gmail.com]
-
----
-
 ## 🌌 Fun Fact
-I love blending mythology and astronomy into my projects, creating immersive experiences !
+I love blending Rome, mythology and astronomy into my projects, creating webapps around things I like !
 
 Thanks for visiting ! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech, space, or anything else!
 

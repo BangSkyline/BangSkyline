@@ -1,4 +1,4 @@
-# 👋 Welcome to BangSkyline's GitHub !
+# Welcome to BangSkyline's GitHub !
 
 Hi, I'm **BangSkyline**, crafting innovative yet simple web applications and tools with a cosmic twist ! My projects often draw inspiration from the universe and the roman empire, blending designs with powerful functionality. Below, you'll find an overview of my work, skills, and ways to connect.
 

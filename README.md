@@ -3,6 +3,7 @@
 ---
 
 ## 🌟 About Me
+- **Languages spoken**: French 🇫🇷 & English 🇬🇧🇺🇲
 - **Focus**: Full-stack development, UI/UX design, and DevOps.
 - **Inspiration**: The solar system and mythology, reflected in my project themes.
 - **Tech Stack**: JavaScript, TypeScript, Next.js, Tailwind CSS, Python, Docker, and more.

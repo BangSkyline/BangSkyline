@@ -1,4 +1,4 @@
-I'm **BangSkyline**, crafting innovative yet simple web applications and tools with a cosmic twist, mainly on Docker ! My projects often draw inspiration from the universe and the roman empire, blending designs with functionality. Below, you'll find an overview of my work and skills.
+## I'm **BangSkyline**, crafting innovative yet simple web applications and tools with a cosmic twist, mainly on Docker ! My projects often draw inspiration from the universe and the roman empire, blending designs with functionality. Below, you'll find an overview of my work and skills.
 
 ---
 

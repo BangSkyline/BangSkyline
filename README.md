@@ -1,6 +1,4 @@
-# Welcome to BangSkyline's GitHub !
-
-Hi, I'm **BangSkyline**, crafting innovative yet simple web applications and tools with a cosmic twist, mainly on Docker ! My projects often draw inspiration from the universe and the roman empire, blending designs with functionality. Below, you'll find an overview of my work, skills, and ways to connect.
+I'm **BangSkyline**, crafting innovative yet simple web applications and tools with a cosmic twist, mainly on Docker ! My projects often draw inspiration from the universe and the roman empire, blending designs with functionality. Below, you'll find an overview of my work, skills, and ways to connect.
 
 ---
 
@@ -72,5 +70,15 @@ I love blending Rome, mythology and astronomy into my projects, creating webapps
 Thanks for visiting ! Feel free to explore my repositories and reach out !
 
 ---
+
+# 💫 About Me:
+suiiiiiiiiiiii
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BangSkyline&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BangSkyline&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BangSkyline&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 
 *Last updated: September 2025*
